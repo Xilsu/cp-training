@@ -1,0 +1,9 @@
+a.cpp
+a.exe
+mainSnippet.cpp
+data.in
+data.out
+.vscode/launch.json
+.vscode/settings.json
+.vscode/tasks.json
+
